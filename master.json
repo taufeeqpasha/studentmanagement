@@ -1,0 +1,64 @@
+{
+  "master": [
+    {
+      "weeks":"monday",
+      "period1":"telugu",
+      "period2":"english",
+      "period3":"maths",
+      "period4":"science",
+      "period5":"social",
+      "period6":"hindi"
+      
+    },
+    {
+      "weeks":"tuseday",
+      "period1":"maths",
+      "period2":"english",
+      "period3":"telugu",
+      "period4":"science",
+      "period5":"hindi",
+      "period6":"social"
+      
+    },
+    {
+      "weeks":"wednesday",
+      "period1":"telugu",
+      "period2":"english",
+      "period3":"maths",
+      "period4":"science",
+      "period5":"social",
+      "period6":"hindi"
+      
+    },
+    {
+      "weeks":"thursday",
+      "period1":"maths",
+      "period2":"english",
+      "period3":"telugu",
+      "period4":"science",
+      "period5":"hindi",
+      "period6":"social"
+      
+    },
+    {
+      "weeks":"friday",
+      "period1":"telugu",
+      "period2":"english",
+      "period3":"maths",
+      "period4":"science",
+      "period5":"social",
+      "period6":"hindi"
+      
+    },
+    {
+      "weeks":"saturday",
+      "period1":"maths",
+      "period2":"english",
+      "period3":"telugu",
+      "period4":"science",
+      "period5":"hindi",
+      "period6":"social"
+      
+    }
+]
+}

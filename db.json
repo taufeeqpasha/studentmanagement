@@ -1,0 +1,80 @@
+{
+  "details": [
+    {
+      "firstname": "saniya",
+      "lastname": "mirja",
+      "username": "saniya",
+      "password": "Saniya1",
+      "dob": "12/2/2009",
+      "mobileno": "8888888888",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "firstname": "aslam",
+      "lastname": "mohammed",
+      "username": "Aslamali",
+      "password": "Aslam2",
+      "dob": "12/10/2007",
+      "mobileno": "7777777777",
+      "role": "student",
+      "id": 4
+    },
+    {
+      "firstname": "yakub",
+      "lastname": "pasha",
+      "username": "Yakubpasha",
+      "password": "Yakub3",
+      "dob": "11/02/1991",
+      "mobileno": "6666666666",
+      "role": "Admin",
+      "id": 5
+    },
+    {
+      "firstname": "sairam",
+      "lastname": "chidurala",
+      "username": "sairam",
+      "password": "Sairam4",
+      "dob": "21/07/1997",
+      "mobileno": "1111111111",
+      "role": "student",
+      "id": 6
+    },
+    {
+      "firstname": "saketh",
+      "lastname": "odela",
+      "username": "saketh",
+      "password": "Saketh5",
+      "dob": "05/08/1998",
+      "mobileno": "1111111111",
+      "role": "student",
+      "id": 7
+    },
+    {
+      "firstname": "rahul",
+      "lastname": "chintham",
+      "username": "Rahul@7",
+      "password": "Rahul7",
+      "dob": "11/2/2017",
+      "mobileno": "8276356272",
+      "role": "student",
+      "id": 8
+    },
+    {
+      "firstname": "sandeep",
+      "lastname": "chidurala",
+      "username": "Sandeep",
+      "role": "student",
+      "password": "Sandeep7",
+      "id": 9
+    },
+    {
+      "firstname": "Rakesh",
+      "lastname": "prince",
+      "username": "Rakesh",
+      "role": "student",
+      "password": "Rakesh1",
+      "id": 10
+    }
+  ]
+}
